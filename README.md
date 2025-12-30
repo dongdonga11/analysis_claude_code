@@ -6,7 +6,15 @@
 
 [中文文档](./README_zh.md)
 
-> This repository was previously used to publish speculative analysis of Claude Code's internals, which contained inaccuracies and overstepped boundaries. We apologize to Anthropic and the community. All such content has been removed and replaced with original educational material.
+---
+
+**A note to readers:**
+
+We created this repository out of admiration for Claude Code - what we believe to be the most capable AI coding agent in the world. Initially, we attempted to reverse-engineer its design through behavioral observation and speculation. The analysis we published was riddled with inaccuracies, unfounded guesses, and technical errors. We deeply apologize to the Claude Code team and anyone who was misled by that content.
+
+Over the past six months, through building and iterating on real agent systems, our understanding of "what makes a true AI agent" has been fundamentally reshaped. We'd like to share these insights with you. All previous speculative content has been removed and replaced with original educational material.
+
+---
 
 > Works with **[Kode CLI](https://github.com/shareAI-lab/Kode)**, **Claude Code**, **Cursor**, and any agent supporting the [Agent Skills Spec](https://github.com/anthropics/agent-skills).
 

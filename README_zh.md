@@ -6,7 +6,15 @@
 
 [English](./README.md)
 
-> 本仓库曾发布过对 Claude Code 内部实现的推测性分析，内容存在诸多不准确之处。我们为此向 Anthropic 及社区致歉。相关内容已全部移除，现已替换为原创教学材料。
+---
+
+**致读者：**
+
+这个仓库源于我们对 Claude Code 的敬佩 - 我们认为它是世界上最优秀的 AI 编程代理。最初，我们试图通过行为观察和推测来逆向分析它的设计。然而，我们当时发布的分析内容充斥着不准确的信息、缺乏依据的猜测和技术错误。我们在此向 Claude Code 团队以及所有被这些内容误导的朋友深表歉意。
+
+过去半年，在不断构建和迭代 Agent 系统的过程中，我们对"什么才是真正的 AI Agent"有了全新的认知。希望能把这些心得分享给大家。之前的推测性内容已全部移除，现已替换为原创教学材料。
+
+---
 
 > 兼容 **[Kode CLI](https://github.com/shareAI-lab/Kode)**、**Claude Code**、**Cursor**，以及任何支持 [Agent Skills Spec](https://github.com/anthropics/agent-skills) 的 Agent。
 
